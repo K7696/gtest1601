@@ -10,7 +10,7 @@ namespace gtest1601
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hep");
+            Console.WriteLine("hepe");
         }
     }
 }
